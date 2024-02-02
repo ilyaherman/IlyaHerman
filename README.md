@@ -8,10 +8,6 @@
   
 
 😉 If you want to create a website or from ready-made scripts, then download from me  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -52,8 +48,6 @@
 
 
 </td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  

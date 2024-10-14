@@ -1,11 +1,7 @@
-### Hi there 👋 I'm Ilya Herman  
-  
+Привет 👋 Я Илья Герман
 
-💻 Lead Engineer  
-  
+💻 Ведущий инженер
 
-🌐 I build pixel-perfect, engaging, and accessible digital experiences  
-  
+🌐 Я создаю безупречные, увлекательные и доступные цифровые решения
 
-😉 If you want to create a website or from ready-made scripts, then download from me  
-
+😉 Если вы хотите создать сайт или из готовых скриптов, то качайте у меня

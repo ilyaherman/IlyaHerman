@@ -1,5 +1,3 @@
-Привет 👋 Я Илья Герман
-
-🌐 Я создаю безупречные, увлекательные и доступные цифровые решения
-
-😉 Если вы хотите создать сайт или из готовых скриптов, то качайте у меня
+Hello  I’m Ilya German
+ I create flawless, engaging, and accessible digital solutions
+ If you want to build a website or use ready-made scripts, download them from me

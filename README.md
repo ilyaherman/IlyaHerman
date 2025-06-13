@@ -13,8 +13,7 @@ I'm **ilyaherman** (or just **ih**) — a beginner game developer 🎮
 
 ## 🌌 Interests
 - Games with **story** and **unique atmosphere** 🌒
-- Mechanics focused on **night**, **ghosts**, and **hidden powers**
-- Gradual world-building and mystery elements
+- Different mechanics
 
 ---
 

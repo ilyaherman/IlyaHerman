@@ -1,27 +1,22 @@
-# 👋 Hey there!
+# 👋 Hi, I'm Herman (ih)
 
-I'm **ilyaherman** (or just **ih**) — a beginner game developer 🎮
+Indie game developer 🎮  
+I create **small but memorable games** with **story and atmosphere**.  
 
----
+## 🛠 Skills & Tools
+- **HTML5 / CSS3 / JavaScript**  
+- **Python** and various **graphics libraries**  
+- Prototyping **2D platformers** and interactive mechanics  
 
-## 🛠️ What I do
-- Learning and experimenting with **HTML5 / CSS3 / JavaScript**
-- Exploring **Python** and **PyGame**
-- Building simple **2D platformers**, atmospheric scenes, and gameplay prototypes
-
----
+## 🚧 Currently Working On
+- **Possession mechanics** (controlling objects)  
+- **Interactive environments**  
+- Sharing experiments and prototypes on **GitHub**  
 
 ## 🌌 Interests
-- Games with **story** and **unique atmosphere** 🌒
-- Different mechanics
-
----
-
-## 🚧 Current Focus
-- Creating **possession mechanics** and interactive environments
-- Sharing progress, experiments, and prototypes on GitHub
-
----
+- Games with **story** and **unique atmosphere** 🌒  
+- Original and unusual gameplay mechanics  
 
 ## 🎯 Goal
-To create **small but memorable games** that tell stories or evoke emotion 🎮✨
+Make games that tell stories and evoke emotion ✨
+
